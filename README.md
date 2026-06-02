@@ -13,3 +13,22 @@ Asks for your monthly income goal, hours per week, and weeks per month — then 
 2. Download `rate_calculator.py`
 3. Run `python3 rate_calculator.py` in your terminal
 4. Answer the questions and get your rate!
+
+## Tip Calculator
+**File:** 'tip_calculator.py'
+
+Asks for the bill total, tip percentage, and number of people splitting- then outputs the tip amount, total bill and each person's share.
+
+---
+
+## CLient Qualifier
+**File:** 'client_qualifier.py'
+
+Asks for potential client's budget and categorizes them into one of the four service tiers - from small job to premium lead.
+
+---
+
+## Freelance Client Screener
+**File:** 'freelance_screener.py'
+
+Asks for a client's budget and project timeline - then recommends whether to send a proposal, ask for more details, or politely decline.

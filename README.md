@@ -21,7 +21,7 @@ Asks for the bill total, tip percentage, and number of people splitting- then ou
 
 ---
 
-## CLient Qualifier
+## Client Qualifier
 **File:** 'client_qualifier.py'
 
 Asks for potential client's budget and categorizes them into one of the four service tiers - from small job to premium lead.

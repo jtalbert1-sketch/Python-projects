@@ -7,3 +7,4 @@ elif service_tier >= 500:
     print("This client is a solid mid-tier project")
 else:
     print("This client is a small job - good for quick wins.")
+

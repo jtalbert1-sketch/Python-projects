@@ -1,0 +1,2 @@
+My first file created with Python!
+I am a freelancer ready for hire.
